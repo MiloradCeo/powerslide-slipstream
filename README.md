@@ -1,2 +1,1 @@
-# powerslide-slipstream
-work-in-progress powerslide sequel game
+# **https://gitlab.com/miloradceo/powerslide for full**
